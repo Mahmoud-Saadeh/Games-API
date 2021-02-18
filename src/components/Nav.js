@@ -28,7 +28,12 @@ const Nav = () => {
         <h1>Ignite</h1>
       </Logo>
       <form className="search">
-        <input value={textInput} onChange={inputHandler} type="text" />
+        <input
+          placeholder="Search for a game"
+          value={textInput}
+          onChange={inputHandler}
+          type="text"
+        />
         <button onClick={submitSearch} type="submit">
           Search
         </button>
