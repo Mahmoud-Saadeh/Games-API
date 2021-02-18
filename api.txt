@@ -1,4 +1,0 @@
-4730ec0d38ac49b0969d25c5ed5d3528
-https://api.rawg.io/api/games?key=4730ec0d38ac49b0969d25c5ed5d3528
-
-https://api.rawg.io/api/games?key=4730ec0d38ac49b0969d25c5ed5d3528&dates=2019-09-01,2019-09-30&platforms=18,1,7
